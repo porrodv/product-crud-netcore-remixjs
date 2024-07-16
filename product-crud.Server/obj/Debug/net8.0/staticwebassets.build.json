@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "KbgqLo4wXXy8elIJsGHBKYBMKyaXOqI3QFeYVNptyoo=",
+  "Source": "product-crud.Server",
+  "BasePath": "_content/product-crud.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.client\\product-crud.client.esproj",
+      "Version": 2,
+      "Source": "product-crud.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">product-crud-frontend</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">1.0.0</PackageJsonVersion>
+    <PackageJsonType Condition="$(PackageJsonType) == ''">module</PackageJsonType>
+    <PackageJsonRepositoryType Condition="$(PackageJsonRepositoryType) == ''">git</PackageJsonRepositoryType>
+    <PackageJsonRepositoryUrl Condition="$(PackageJsonRepositoryUrl) == ''">https://github.com/porrodv/product-crud</PackageJsonRepositoryUrl>
+    <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
+    <PackageJsonSideeffects Condition="$(PackageJsonSideeffects) == ''">false</PackageJsonSideeffects>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">remix vite:build</PackageJsonScriptsBuild>
+    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">remix vite:dev</PackageJsonScriptsDev>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">remix-serve ./build/server/index.js</PackageJsonScriptsStart>
+    <PackageJsonScriptsTypecheck Condition="$(PackageJsonScriptsTypecheck) == ''">tsc</PackageJsonScriptsTypecheck>
+    <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">eslint --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint .</PackageJsonScriptsLint>
+    <PackageJsonScriptsFormat Condition="$(PackageJsonScriptsFormat) == ''">prettier --write .</PackageJsonScriptsFormat>
+    <PackageJsonKeywords Condition="$(PackageJsonKeywords) == ''">[
+  "react",
+  "remix",
+  "typescript",
+  "frontend",
+  "materialui"
+]</PackageJsonKeywords>
+    <PackageJsonAuthor Condition="$(PackageJsonAuthor) == ''">Alexander Porro &lt;alex1020pl@gmail.com&gt;</PackageJsonAuthor>
+    <PackageJsonContributors Condition="$(PackageJsonContributors) == ''">[
+  {
+    "name": "Alexander Porro",
+    "email": "alex1020pl@gmail.com",
+    "url": "https://github.com/porrodv"
+  }
+]</PackageJsonContributors>
+    <PackageJsonDependenciesRemixRunNode Condition="$(PackageJsonDependenciesRemixRunNode) == ''">^2.10.2</PackageJsonDependenciesRemixRunNode>
+    <PackageJsonDependenciesRemixRunReact Condition="$(PackageJsonDependenciesRemixRunReact) == ''">^2.10.2</PackageJsonDependenciesRemixRunReact>
+    <PackageJsonDependenciesRemixRunServe Condition="$(PackageJsonDependenciesRemixRunServe) == ''">^2.10.2</PackageJsonDependenciesRemixRunServe>
+    <PackageJsonDependenciesAntd Condition="$(PackageJsonDependenciesAntd) == ''">^5.19.1</PackageJsonDependenciesAntd>
+    <PackageJsonDependenciesAxios Condition="$(PackageJsonDependenciesAxios) == ''">^1.7.2</PackageJsonDependenciesAxios>
+    <PackageJsonDependenciesDotenv Condition="$(PackageJsonDependenciesDotenv) == ''">^16.4.5</PackageJsonDependenciesDotenv>
+    <PackageJsonDependenciesIsbot Condition="$(PackageJsonDependenciesIsbot) == ''">^4.1.0</PackageJsonDependenciesIsbot>
+    <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^18.2.0</PackageJsonDependenciesReact>
+    <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^18.2.0</PackageJsonDependenciesReactDom>
+    <PackageJsonDevdependenciesRemixRunDev Condition="$(PackageJsonDevdependenciesRemixRunDev) == ''">^2.10.2</PackageJsonDevdependenciesRemixRunDev>
+    <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^18.2.20</PackageJsonDevdependenciesTypesReact>
+    <PackageJsonDevdependenciesTypesReactDom Condition="$(PackageJsonDevdependenciesTypesReactDom) == ''">^18.2.7</PackageJsonDevdependenciesTypesReactDom>
+    <PackageJsonDevdependenciesTypescriptEslintEslintPlugin Condition="$(PackageJsonDevdependenciesTypescriptEslintEslintPlugin) == ''">^6.7.4</PackageJsonDevdependenciesTypescriptEslintEslintPlugin>
+    <PackageJsonDevdependenciesTypescriptEslintParser Condition="$(PackageJsonDevdependenciesTypescriptEslintParser) == ''">^6.7.4</PackageJsonDevdependenciesTypescriptEslintParser>
+    <PackageJsonDevdependenciesAutoprefixer Condition="$(PackageJsonDevdependenciesAutoprefixer) == ''">^10.4.19</PackageJsonDevdependenciesAutoprefixer>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^8.38.0</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesEslintConfigPrettier Condition="$(PackageJsonDevdependenciesEslintConfigPrettier) == ''">^9.0.0</PackageJsonDevdependenciesEslintConfigPrettier>
+    <PackageJsonDevdependenciesEslintImportResolverTypescript Condition="$(PackageJsonDevdependenciesEslintImportResolverTypescript) == ''">^3.6.1</PackageJsonDevdependenciesEslintImportResolverTypescript>
+    <PackageJsonDevdependenciesEslintPluginImport Condition="$(PackageJsonDevdependenciesEslintPluginImport) == ''">^2.28.1</PackageJsonDevdependenciesEslintPluginImport>
+    <PackageJsonDevdependenciesEslintPluginJsxA11y Condition="$(PackageJsonDevdependenciesEslintPluginJsxA11y) == ''">^6.7.1</PackageJsonDevdependenciesEslintPluginJsxA11y>
+    <PackageJsonDevdependenciesEslintPluginReact Condition="$(PackageJsonDevdependenciesEslintPluginReact) == ''">^7.33.2</PackageJsonDevdependenciesEslintPluginReact>
+    <PackageJsonDevdependenciesEslintPluginReactHooks Condition="$(PackageJsonDevdependenciesEslintPluginReactHooks) == ''">^4.6.0</PackageJsonDevdependenciesEslintPluginReactHooks>
+    <PackageJsonDevdependenciesPostcss Condition="$(PackageJsonDevdependenciesPostcss) == ''">^8.4.38</PackageJsonDevdependenciesPostcss>
+    <PackageJsonDevdependenciesPrettier Condition="$(PackageJsonDevdependenciesPrettier) == ''">^3.3.2</PackageJsonDevdependenciesPrettier>
+    <PackageJsonDevdependenciesTypescript Condition="$(PackageJsonDevdependenciesTypescript) == ''">^5.1.6</PackageJsonDevdependenciesTypescript>
+    <PackageJsonDevdependenciesVite Condition="$(PackageJsonDevdependenciesVite) == ''">^5.1.0</PackageJsonDevdependenciesVite>
+    <PackageJsonDevdependenciesViteTsconfigPaths Condition="$(PackageJsonDevdependenciesViteTsconfigPaths) == ''">^4.2.1</PackageJsonDevdependenciesViteTsconfigPaths>
+    <PackageJsonEnginesNode Condition="$(PackageJsonEnginesNode) == ''">&gt;=20.0.0</PackageJsonEnginesNode>
+  </PropertyGroup>
+</Project>

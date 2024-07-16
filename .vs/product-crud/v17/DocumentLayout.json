@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|c:\\users\\alexander\\workspace\\_wayni\\product-crud\\product-crud.server\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|solutionrelative:product-crud.server\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|c:\\users\\alexander\\workspace\\_wayni\\product-crud\\product-crud.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|solutionrelative:product-crud.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|c:\\users\\alexander\\workspace\\_wayni\\product-crud\\product-crud.server\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|solutionrelative:product-crud.server\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|c:\\users\\alexander\\workspace\\_wayni\\product-crud\\product-crud.server\\data\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|solutionrelative:product-crud.server\\data\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|c:\\users\\alexander\\workspace\\_wayni\\product-crud\\product-crud.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE13FEC-1038-488F-A856-114DBF7762C1}|product-crud.Server\\product-crud.Server.csproj|solutionrelative:product-crud.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "product-crud.Server\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "product-crud.Server\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:15:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "product-crud.Server\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "product-crud.Server\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:14:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Data\\Dtos\\Product\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "product-crud.Server\\Data\\Dtos\\Product\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Data\\Dtos\\Product\\ProductDTO.cs",
+              "RelativeToolTip": "product-crud.Server\\Data\\Dtos\\Product\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:11:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Program.cs",
+              "RelativeDocumentMoniker": "product-crud.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Program.cs",
+              "RelativeToolTip": "product-crud.Server\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:42:05.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "product-crud.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Workspace\\_wayni\\product-crud\\product-crud.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "product-crud.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:29:02.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
